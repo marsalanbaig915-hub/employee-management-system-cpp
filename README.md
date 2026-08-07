@@ -1,4 +1,4 @@
-[README (4).md](https://github.com/user-attachments/files/30809016/README.4.md)[Uploading RE# Employee Management System (C++)
+# Employee Management System (C++)
 
 A console-based Employee Management System built in C++ using Object-Oriented Programming and File Handling — no database required, records are persisted directly to a text file.
 
